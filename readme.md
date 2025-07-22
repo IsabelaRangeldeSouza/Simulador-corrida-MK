@@ -107,7 +107,7 @@
 <ul>
   <li> Confronto
 </li>
-  <li><input type="checkbox" /> Jogador vencedor tem aleatoriamente a possibilidade de jogar um item pra prejudicar o adversário um casco(-1 ponto) ou uma bomba(-2 pontos). 
+  <li><input type="checkbox" /> Jogador vencedor tem aleatoriamente a possibilidade de jogar um item pra prejudicar o adversário um casco (-1 ponto) ou uma bomba (-2 pontos). 
 </label></li>
   <li><input type="checkbox" /> Quem vence o confronto ganha um turbo (+ 1 ponto) aleatoriamente. </li>
     <ul>
